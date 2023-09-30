@@ -1,0 +1,4 @@
+Name,Accuracy,Precision,Recall,F1
+DecisionTreeClassifier,81.78,81.55,81.78,81.53
+GaussianNB,30.4,19.81,30.4,22.14
+KNeighborsClassifier,87.15,87.13,87.15,87.04

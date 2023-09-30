@@ -1,0 +1,3 @@
+DecisionTreeClassifier: {'splitter': 'best', 'random_state': 42, 'min_samples_split': 10, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': 20, 'criterion': 'entropy'}
+GaussianNB: {'var_smoothing': 1e-06}
+KNeighborsClassifier: {'weights': 'uniform', 'p': 2, 'n_neighbors': 3, 'metric': 'manhattan'}
