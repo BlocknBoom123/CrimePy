@@ -1,0 +1,2 @@
+Name,Accuracy,Precision,Recall,F1
+XGBClassifier,71.13,71.48,71.13,70.74
