@@ -1,0 +1,3 @@
+Name,Accuracy,Precision,Recall,F1
+DecisionTreeClassifier,84.48,88.4,84.48,85.47
+GaussianNB,71.22,78.71,71.22,73.66
