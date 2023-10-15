@@ -1,1 +1,0 @@
-XGBClassifier: {'subsample': 0.6, 'min_child_weight': 10, 'max_depth': 6, 'gamma': 0, 'colsample_bytree': 0.6}

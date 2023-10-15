@@ -1,3 +1,8 @@
 Name,Accuracy,Precision,Recall,F1
-DecisionTreeClassifier,84.48,88.4,84.48,85.47
-GaussianNB,71.22,78.71,71.22,73.66
+RandomForestClassifier,70.98,71.23,70.98,70.64
+DecisionTreeClassifier,70.47,70.64,70.47,70.19
+CatBoostClassifier,71.16,71.46,71.16,70.8
+AdaBoostClassifier,23.5,16.72,23.5,17.6
+GaussianNB,32.81,27.67,32.81,26.23
+KNeighborsClassifier,68.38,68.32,68.38,68.15
+XGBClassifier,71.07,71.45,71.07,70.67
